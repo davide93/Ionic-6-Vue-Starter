@@ -1,0 +1,7 @@
+{
+  "name": "IonVue 6 Starter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
